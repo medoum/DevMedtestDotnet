@@ -1,0 +1,7 @@
+﻿@DevMed_HostAddress = http://localhost:5192
+
+GET {{DevMed_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+

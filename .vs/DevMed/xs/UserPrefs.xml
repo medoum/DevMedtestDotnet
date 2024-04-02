@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{4BAB1E89-71DA-4D2F-AE9B-B45515C9DD94}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DevMed PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DevMed/Controllers/AuthenticationController.cs">
+    <Files>
+      <File FileName="DevMed/Program.cs" Line="7" Column="1" />
+      <File FileName="DevMed/Models/ApplicationDbContext.cs" Line="1" Column="1" />
+      <File FileName="User.Management.Service/Models/EmailConfiguration.cs" Line="1" Column="1" />
+      <File FileName="DevMed/Controllers/AuthenticationController.cs" Line="87" Column="10" />
+      <File FileName="User.Management.Service/Models/Message.cs" />
+      <File FileName="DevMed/Models/Authentication/SignUp/RegisterUser.cs" Line="20" Column="1" />
+      <File FileName="DevMed/Models/Response.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DevMed" expanded="True">
+            <Node name="DevMed">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True">
+                <Node name="AuthenticationController.cs" selected="True" />
+              </Node>
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Authentication" expanded="True">
+                  <Node name="SignUp" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="User.Management.Service" expanded="True">
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

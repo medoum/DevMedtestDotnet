@@ -1,0 +1,12 @@
+/Users/mohamed/Projects/DevMed/User.Management.Service/bin/Debug/net8.0/User.Management.Service.deps.json
+/Users/mohamed/Projects/DevMed/User.Management.Service/bin/Debug/net8.0/User.Management.Service.dll
+/Users/mohamed/Projects/DevMed/User.Management.Service/bin/Debug/net8.0/User.Management.Service.pdb
+/Users/mohamed/Projects/DevMed/User.Management.Service/obj/Debug/net8.0/User.Management.Service.csproj.AssemblyReference.cache
+/Users/mohamed/Projects/DevMed/User.Management.Service/obj/Debug/net8.0/User.Management.Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohamed/Projects/DevMed/User.Management.Service/obj/Debug/net8.0/User.Management.Service.AssemblyInfoInputs.cache
+/Users/mohamed/Projects/DevMed/User.Management.Service/obj/Debug/net8.0/User.Management.Service.AssemblyInfo.cs
+/Users/mohamed/Projects/DevMed/User.Management.Service/obj/Debug/net8.0/User.Management.Service.csproj.CoreCompileInputs.cache
+/Users/mohamed/Projects/DevMed/User.Management.Service/obj/Debug/net8.0/User.Management.Service.dll
+/Users/mohamed/Projects/DevMed/User.Management.Service/obj/Debug/net8.0/refint/User.Management.Service.dll
+/Users/mohamed/Projects/DevMed/User.Management.Service/obj/Debug/net8.0/User.Management.Service.pdb
+/Users/mohamed/Projects/DevMed/User.Management.Service/obj/Debug/net8.0/ref/User.Management.Service.dll
